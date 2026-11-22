@@ -1,14 +1,12 @@
 {
-  "christmas": [
+  "Christ": [
     "flat-142.svg",
     "flat-143.svg",
     "flat-144.svg",
     "flat-145.svg",
-    "flat-146.svg",
-    "flat-169.svg",
-    "flat-174.svg"
+    "flat-146.svg"
   ],
-  "Christmas Round": [
+  "Christmas": [
     "bears-cub-christmas-tree-forest-snow.svg",
     "flat-28.svg",
     "flat-148.svg",
@@ -24,7 +22,9 @@
     "hippo-christmas-winter-santa-hat-scarf-snowflakes.svg",
     "jingle-bell-rock-christmas-ornament-holly.svg",
     "redneck-christmas-twelve-days-beer-cans-hunting-pi.svg",
-    "santa-woman-kissing-christmas-mistletoe-ornament.svg"
+    "santa-woman-kissing-christmas-mistletoe-ornament.svg",
+    "flat-169.svg",
+    "flat-174.svg"
   ],
   "Christmas Alphabets": [
     "flat-116.svg",
@@ -53,6 +53,16 @@
     "flat-139.svg",
     "flat-140.svg",
     "flat-141.svg",
+    "flat-88.svg",
+    "flat-90.svg",
+    "flat-91.svg",
+    "flat-92.svg",
+    "flat-93.svg",
+    "flat-94.svg",
+    "flat-95.svg",
+    "flat-96.svg",
+    "flat-97.svg",
+    "flat-98.svg",
     "flat-99.svg",
     "flat-100.svg",
     "flat-101.svg",
